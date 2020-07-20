@@ -15,7 +15,7 @@ public class GithubTest {
         PrintClass.printLowerCase("HOLA");
 
         PrintClass.printUpperCase("Hello World");
-
+        System.out.println(PrintClass.getUpperCase("Hello World"));
     }
     
 }
