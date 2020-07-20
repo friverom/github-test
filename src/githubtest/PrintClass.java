@@ -20,4 +20,8 @@ public static void printUpperCase(String s){
     String t=s.toUpperCase();
     System.out.println(t);
 }
+
+public static String getUpperCase(String s){
+    return s.toUpperCase();
+}
 }
