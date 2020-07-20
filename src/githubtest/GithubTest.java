@@ -11,7 +11,7 @@ public class GithubTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        PrintClass.printString("Hello World");
+        PrintClass.printUpperCase("Hello World");
     }
     
 }
