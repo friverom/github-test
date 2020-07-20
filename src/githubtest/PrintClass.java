@@ -14,5 +14,10 @@ public static void printString(String s){
 public static void printLowerCase(String s){
     String t=s.toLowerCase();
     System.out.println(t);
+}    
+
+public static void printUpperCase(String s){
+    String t=s.toUpperCase();
+    System.out.println(t);
 }
 }
